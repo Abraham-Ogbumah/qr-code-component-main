@@ -24,6 +24,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Contact - [Abraham Ogbumah](https://digital-card-ogbumah.netlify.app/)
-- Frontend Mentor - [@Abraham-Ogbumah](https://www.frontendmentor.io/profile/Abraham-Ogbumah)
-- Twitter - [@theRealhaybee](https://www.twitter.com/theRealhaybee)
+- Frontend Mentor - [@Abraham-Ogbumah](https://www.frontendmentor.io/profile/yourusername)
+- Twitter - [@theRealhaybee](https://www.twitter.com/yourusername)
